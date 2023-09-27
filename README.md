@@ -1,1 +1,1 @@
-# Diseased-Maize-Leaves-Detection---Supervised-Learning
+# Apple-Leaves-Desease-Detection---Supervised-Learning
