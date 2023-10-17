@@ -1,1 +1,2 @@
-# Apple-Leaves-Desease-Detection---Supervised-Learning
+#Leaf-Desease-Detection---Supervised-Learning
+
